@@ -107,7 +107,7 @@ Open the local URL displayed in your terminal to access the application.
 
 ## 👨‍💻 Developer
 
-**Abhimanyu Byapari**
+**Abhimanyu Bepari**
 
 ## 📄 License
 
