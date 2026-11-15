@@ -60,7 +60,7 @@ npm install
 
 ### 4. Configure Environment Variables
 
-Create a `.env` file in the project root directory and add:
+Create a `.env.local` file in the project root directory and add:
 
 ```env
 GROQ_API_KEY=your_groq_api_key
